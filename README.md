@@ -28,9 +28,11 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
   </p>
 
-<h3>Contact</h3>
-
+<ul><h3>Contact</h3>
+<li>
 <p align="left">
   <a href="mailto:jefersonmedeiros000@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jefersonmedeiros000@gmail.com" /></a> jefersonmedeiros000@gmail.com
-</p> 
+</p>
+</li>
+</ul>
