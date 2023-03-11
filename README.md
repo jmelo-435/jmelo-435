@@ -32,5 +32,5 @@
 
 <p align="left">
   <a href="mailto:jefersonmedeiros000@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jefersonmedeiros000@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jefersonmedeiros000@gmail.com" /></a> jefersonmedeiros000@gmail.com
 </p> 
