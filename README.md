@@ -7,10 +7,9 @@
   Currently I'm working in freelance projects and graduating in Software Engineering.
 </p>
 
+<h1>Lenguages</h1>
 <p align="left">
-  ####Lenguages
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-   Lenguages: ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 </p>
 
 <p align="left">
