@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador jmelo-435">
 
 <p align="left"> 
-  My name is Jeferson Melo, I'm a brazilian <strong>programmer</strong>. My main skills are focused in <strong>web and mobile</strong> development.
+  My name is <strong>Jeferson Melo</strong>, I'm a brazilian programmer. My main skills are focused in <strong>web and mobile development</strong>.
   Currently I'm working in <a href="https://www.getninjas.com.br/anuncios/design-e-tecnologia/aplicativos-para-celular-e-redes-sociais/design-e-tecnologia-jeferson-douglas-medeiros-melo?ref=internal&subdomain=www&utm_campaign=37830282&utm_medium=whatsapp&utm_source=getninjas">freelance projects</a> and graduating in Software Engineering.
 </p>
 <h2>Main Skills</h2>
@@ -21,13 +21,24 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </p>
-  <p align="left">
+<p align="left">
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
   </p>
+</ul>
+<ul>
+<h3>Deployment</h3>
+<p align="left">
+
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  
+
+  
+  </p>
+  
 </ul>
 <ul><h3>Contact</h3>
 <li>
