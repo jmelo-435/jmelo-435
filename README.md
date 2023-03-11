@@ -6,8 +6,7 @@
   My name is Jeferson Melo, I'm a brazilian <strong>programmer</strong> and<strong>web and mobile</strong> developer.<br>
   Currently I'm working in freelance projects and graduating in Software Engineering.
 </p>
-<h2>My Skills</h2>
-<br>
+<h2>Main Skills</h2>
 <h3>Lenguages</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
