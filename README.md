@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador jmelo-435">
+<img src="./images/banner.png" min-width="400px" max-width="400px" width="400px" align="right" alt="banner jmelo-435">
 
 <p align="left"> 
   My name is <strong>Jeferson Melo</strong>, I'm a brazilian programmer. My main skills are focused in <strong>web and mobile development</strong>.
